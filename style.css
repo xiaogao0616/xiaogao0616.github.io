@@ -15,3 +15,5 @@
 
 /* Certificates */
 .certificate-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:26px}.certificate{border:1px solid var(--line);padding:28px;display:flex;flex-direction:column;align-items:flex-start}.certificate:first-child{background:#151f25;border-color:#4a6370}.certificate h3{font-size:24px;letter-spacing:-.5px;margin:12px 0;max-width:460px}.certificate .mono{color:var(--accent)}.certificate .description{margin-bottom:24px}.certificate .text-link{margin-top:auto}nav{flex-wrap:wrap;justify-content:flex-end;gap:14px 26px}@media(max-width:700px){.certificate-grid{grid-template-columns:1fr}.certificate{padding:24px}header{height:auto;min-height:96px;gap:24px;padding:20px 0}nav{gap:10px 16px;max-width:285px}.certificate h3{font-size:22px}}
+
+.certificate-image{display:block;width:100%;margin-bottom:18px;background:white}.certificate-image img{display:block;width:100%;height:auto}.certificate-image:hover{opacity:.94}
