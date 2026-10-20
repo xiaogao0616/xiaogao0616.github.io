@@ -32,7 +32,7 @@
 .publications li+li{margin-top:14px}
 .publications strong{color:var(--text)}
 .publications .text-link{padding:0 0 2px;margin-left:6px;font-size:13px}
-.minestory{border-top:0}
+.minejob{border-top:0}
 .shot-panel{border-left:1px solid var(--line);background:#11191e;display:flex;align-items:center;padding:30px;min-width:0}
 .shot-panel img{display:block;width:100%;height:auto;border:1px solid #2c3d48}
 .inline-link{border-bottom:1px solid #68727a}
